@@ -222,14 +222,14 @@ def verify_signature(public_key, message, signature):
 
     r, s = signature
 
-    w = inverse_mod(int(s, 16), curve.n)
+    w = inverse_mod(int(str(s), 16), curve.n)
     u1 = (z * w) % curve.n
-    u2 = (int(r, 16) * w) % curve.n
+    u2 = (int(str(r), 16) * w) % curve.n
 
     x, y = point_add(scalar_mult(u1, curve.g),
                      scalar_mult(u2, public_key))
 
-    if (int(r, 16) % curve.n) == (x % curve.n):
+    if (int(str(r), 16) % curve.n) == (x % curve.n):
         return 'Підпис співпадає'
     else:
         return 'Підпис не співпадає (можлива підробка підпису)'
