@@ -1,5 +1,7 @@
 # ECDSA
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/e295e925461e48128eb07225ce330728)](https://app.codacy.com/manual/dexXxed/ECDSA?utm_source=github.com&utm_medium=referral&utm_content=dexXxed/ECDSA&utm_campaign=Badge_Grade_Dashboard)
+
 *ECDSA (Elliptic Curve Digital Signature Algorithm)* — це алгоритм з
 відкритим ключем для створення цифрового підпису, аналогічний за своєю
 будовою DSA, але визначений, на відміну від нього, не над полем цілих
