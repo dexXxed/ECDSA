@@ -19,9 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4507e70-2613-4a61-b2d5-8eb11be68274" name="Default Changelist" comment="fixing TypeError">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="c4507e70-2613-4a61-b2d5-8eb11be68274" name="Default Changelist" comment="README.md adding">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/check not ok.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/screenshots/check_not_ok.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/check ok.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/screenshots/check_ok.JPG" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -143,7 +144,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1549978915159</updated>
-      <workItem from="1593088631496" duration="1133000" />
+      <workItem from="1593088631496" duration="1259000" />
     </task>
     <task id="LOCAL-00001" summary="fixing TypeError">
       <created>1593089087374</created>
@@ -152,7 +153,14 @@
       <option name="project" value="LOCAL" />
       <updated>1593089087375</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="README.md adding">
+      <created>1593089795023</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1593089795023</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TodoView">
@@ -180,7 +188,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="fixing TypeError" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixing TypeError" />
+    <MESSAGE value="README.md adding" />
+    <option name="LAST_COMMIT_MESSAGE" value="README.md adding" />
   </component>
   <component name="WindowStateProjectService">
     <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593088819331">
@@ -211,10 +220,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1593088755913" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1593089090198">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1593089796934">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1593089090198" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1593089796934" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/ECDSA$sign.coverage" NAME="sign Coverage Results" MODIFIED="1593089399239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />

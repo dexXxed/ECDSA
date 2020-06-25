@@ -15,6 +15,6 @@ Python 3. Результат роботи скриптів представле�
 ![](./screenshots/sign.JPG)
 
 `check.py`
-![](./screenshots/check ok.JPG)
+![](screenshots/check_ok.JPG)
 
-![](./screenshots/check not ok.JPG)
+![](screenshots/check_not_ok.JPG)
